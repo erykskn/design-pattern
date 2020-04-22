@@ -1,4 +1,4 @@
-package com.ery.prototype;
+package com.ery.creational.prototype;
 
 public class Movie implements PrototypeCapable {
     private String name = null;

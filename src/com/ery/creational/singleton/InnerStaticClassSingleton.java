@@ -1,4 +1,4 @@
-package com.ery.creational;
+package com.ery.creational.singleton;
 
 public class InnerStaticClassSingleton {
 

@@ -1,4 +1,4 @@
-package com.ery.prototype;
+package com.ery.creational.prototype;
 
 import java.util.HashMap;
 import java.util.Map;
